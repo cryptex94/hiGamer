@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">hiGamer</string>
+    <string name="facebook_application_id">1774999786042163</string>
+    <string name="fb_login_protocol_scheme">fb1774999786042163</string>
+    <string name="GOOGLE_WEB_ID">"225392117947-2ukd15qq8p1gpt44amqg0b2ban8af71t.apps.googleusercontent.com"</string>
+
+    <string name="terms_conditions">Scaricando o utilizzando l\'app, dichiari di accettare automaticamente i termini: assicurati quindi di leggerli attentamente prima di utilizzare l\'app. Non è consentito copiare o modificare in alcun modo l\'app, qualsiasi parte dell\'app o i nostri marchi. Non puoi tentare di estrarre il codice sorgente dell\'app e non dovresti nemmeno provare a tradurre l\'app in altre lingue o creare versioni derivate. L\'app stessa e tutti i marchi, i diritti d\'autore, i diritti sui database e altri diritti di proprietà intellettuale ad essa correlati appartengono a hiGamer. \ n \ n
+
+hiGamer si impegna a garantire che l\'app sia il più utile ed efficiente possibile. Per tale motivo, ci riserviamo il diritto di apportare modifiche all\'app o di addebitarne i servizi, in qualsiasi momento e per qualsiasi motivo. Non ti addebiteremo mai l\'app o i suoi servizi senza il tuo consenso e senza chiarirti esattamente per cosa stai pagando. \ n \ n
+
+L\'app hiGamer memorizza ed elabora i dati personali che ci hai fornito per fornire il servizio. È tua responsabilità proteggere il tuo telefono e l\'accesso all\'app. Ti consigliamo quindi di non eseguire il jailbreak o il root del tuo telefono, che è il processo di rimozione delle restrizioni e limitazioni software imposte dal sistema operativo ufficiale del tuo dispositivo. Potrebbe rendere il tuo telefono vulnerabile a malware / virus / programmi dannosi, compromettere le funzionalità di sicurezza del tuo telefono e potrebbe significare che l\'app hiGamer non funzionerà correttamente o per niente. \ n \ n
+
+L\'app utilizza servizi di terze parti che dichiarano i loro termini e condizioni. \n
+
+Link ai Termini e Condizioni dei servizi utilizzati dall\'app: </string>
+
+    <string name="link1">https://policies.google.com/terms</string>
+    <string name="link2">https://developers.google.com/admob/terms</string>
+    <string name="link3">https://firebase.google.com/terms/analytics</string>
+    <string name="link4">https://firebase.google.com/terms/crashlytics</string>
+    <string name="link5">https://www.facebook.com/legal/terms/plain_text_terms</string>
+
+    <string name="terms_conditions_2"> Dovresti essere consapevole del fatto che ci sono alcune cose di cui hiGamer non si assumerà la responsabilità. Alcune funzioni dell\'app richiedono che l\'app disponga di una connessione Internet attiva. La connessione può essere Wi-Fi o fornita dal tuo gestore di rete mobile, ma hiGamer non può assumersi la responsabilità del mancato funzionamento dell\'app se non hai accesso al Wi-Fi e/o hai dati mobili.
+
+Se stai utilizzando l\'app al di fuori di un\'area con Wi-Fi, dovresti ricordare che i termini dell\'accordo con il tuo gestore di rete mobile continueranno ad applicarsi. Di conseguenza, il tuo gestore di telefonia mobile potrebbe addebitarti il costo dei dati per la durata della connessione durante l\'accesso all\'app o altri costi di terze parti. Utilizzando l\'app, ti assumi la responsabilità di tali addebiti, compresi i costi per i dati in roaming, se utilizzi l\'app al di fuori del tuo territorio (ad esempio regione o paese) senza disattivare il roaming dati. Se non sei il proprietario pagante per il dispositivo su cui stai utilizzando l\'app, tieni presente che presupponiamo che tu abbia ricevuto l\'autorizzazione del proprietario per l\'utilizzo dell\'app. \n \n
+
+Allo stesso modo, hiGamer non può sempre assumersi la responsabilità del modo in cui utilizzi l\'app. Non sono assolutamente tollerati comportamenti violenti, discriminatori verso ogni sesso/religione/razza. Devi essere consapevole che hiGamer può bloccare l\'uso dell\'app in maniera definitiva qualora si verificassero comportamenti non idonei alle finalità dell\'app stessa. Devi assicurarti che il tuo dispositivo rimanga carico: se la batteria si scarica e non puoi accenderlo per usufruire del servizio, hiGamer non ha responsabilità.
+
+Per quanto riguarda la responsabilità di hiGamer per il tuo utilizzo dell\'app, quando stai utilizzando l\'app, è importante tenere a mente che, sebbene ci sforziamo di garantire che sia aggiornata e corretta in ogni momento, ci affidiamo a terze parti per fornire informazioni a noi in modo che possiamo metterle a tua disposizione. hiGamer non si assume alcuna responsabilità per eventuali perdite, dirette o indirette, che si verificano a causa dell\'affidamento completo a questa funzionalità dell\'app.
+
+Ad un certo punto, potremmo voler aggiornare l\'app. L\'app è attualmente disponibile su Android: i requisiti per il sistema (e per eventuali sistemi aggiuntivi a cui decidiamo di estendere la disponibilità dell\'app) potrebbero cambiare e dovrai scaricare gli aggiornamenti se desideri continuare a utilizzare l\'app in modo efficiente. higamer non promette che aggiornerà sempre l\'app in modo che sia rilevante per te e/o funzioni con la versione Android che hai installato sul tuo dispositivo. Tuttavia, dichiari di accettare sempre gli aggiornamenti dell\'applicazione quando ti vengono offerti, potremmo anche voler interrompere la fornitura dell\'app e potremmo interromperne l\'uso in qualsiasi momento senza darti preavviso di cessazione. Salvo diversa indicazione da parte nostra, in caso di risoluzione, (a) i diritti e le licenze a te concessi in questi termini cesseranno; (b) devi interrompere l\'utilizzo dell\'app e (se necessario) eliminarla dal tuo dispositivo. </string>
+
+<string name="changes_terms">Cambiamenti ai Termini e Condizioni </string>
+
+<string name = "changes">Potremmo aggiornare i nostri Termini e condizioni di volta in volta. Pertanto, si consiglia di rivedere periodicamente questa pagina per eventuali modifiche. Ti avviserò di eventuali modifiche pubblicando i nuovi Termini e Condizioni in questa pagina.
+    Questi termini e condizioni sono in vigore dal 01-01-2022 </string>
+
+<string name = "contacts_terms">Contattaci </string>
+
+<string name = "contacts">"Se hai qualche domanda o suggerimento sui Termini e Condizioni, non esitare a contattare higamerapp@gmail.com.</string>
+
+    <string name="terms_conditions_title">Termini e Condizioni</string>
+    <string name="agree_terms">Accetto i termini del servizio</string>
+    <string name="accept">Accetta</string>
+    <string name="set_up_profile">Imposta il tuo profilo</string>
+    <string name="language">Lingua</string>
+    <string name="name">Nome</string>
+    <string name="summoner_stats">Profilo evocatore</string>
+    <string name="tier">Lega</string>
+    <string name="role">Ruolo</string>
+    <string name="teammates">Ho compagni di squadra</string>
+    <string name="done">FATTO</string>
+    <string name="select_language">Seleziona lingua</string>
+    <string name="cancel">ANNULLA</string>
+    <string name="empty_list">Oops! Lista vuota</string>
+    <string name="swipe_refresh">Swipe per aggiornare</string>
+    <string name="look_for_gamer">Cerca un giocatore</string>
+    <string name="profile">Profilo</string>
+    <string name="connection_error">Errore. Controlla la tua connessione o prova a riavviare l\'app.</string>
+    <string name="bronze">Bronzo</string>
+    <string name="iron">Ferro</string>
+    <string name="silver">Argento</string>
+    <string name="gold">Oro</string>
+    <string name="platinum">Platino</string>
+    <string name="diamond">Diamante</string>
+    <string name="name_input_error">Per favore, inserisci un nome.</string>
+    <string name="tier_error">Per favore, inserisci una lega.</string>
+    <string name="role_error">Per favore, inserisci un ruolo.</string>
+    <string name="server_error">Per favore, inserisci un server.</string>
+    <string name="name_size_error">Per favore, usa un nome piu\' corto.</string>
+    <string name="no_teammates">Non ho compagni di squadra</string>
+    <string name="any_tier">Qualsiasi lega</string>
+    <string name="filter_language">Filtra per lingua</string>
+    <string name="filter_tier">Filtra per lega</string>
+    <string name="filter_role">Filtra per ruolo</string>
+    <string name="any_role">Qualsiasi ruolo</string>
+    <string name="english">Inglese</string>
+    <string name="french">Francese</string>
+    <string name="spanish">Spagnolo</string>
+    <string name="german">Tedesco</string>
+    <string name="italian">Italiano</string>
+    <string name="portuguese">Portoghese</string>
+    <string name="polish">Polacco</string>
+    <string name="russian">Russo</string>
+    <string name="korean">Coreano</string>
+    <string name="chinese">Cinese</string>
+    <string name="arabic">Arabo</string>
+    <string name="any_language">Qualsiasi lingua</string>
+    <string name="others">Altro</string>
+    <string name="chat_deleted">Chat cancellata</string>
+    <string name="undo">Annulla</string>
+    <string name="message">Messaggio</string>
+    <string name="chat">Chat</string>
+    <string name="gamers">Gamers</string>
+    <string name="top">Top</string>
+    <string name="jungle">Giungla</string>
+    <string name="mid">Mid</string>
+    <string name="adc">Adc</string>
+    <string name="support">Supporto</string>
+    <string name="best_champ">Campioni preferiti</string>
+    <string name="br">BR</string>
+    <string name="eune">EUNE</string>
+    <string name="euw">EUW</string>
+    <string name="jp">JP</string>
+    <string name="kr">KR</string>
+    <string name="lan">LAN</string>
+    <string name="las">LAS</string>
+    <string name="na">NA</string>
+    <string name="oce">OCE</string>
+    <string name="ru">RU</string>
+    <string name="tr">TR</string>
+    <string name="pbe">P</string>
+    <string name="select_champ">Seleziona fino a due campioni</string>
+
+</resources>

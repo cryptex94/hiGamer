@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable-anydpi/ic_logout.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_bottombar_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_bottombar_sports_esports_24.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_logo.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_logo_splash.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_logonew.xml" value="0.3609375" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_mark_chat_unread.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/ic_photo_1637964355732.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/icona_app_splashscreen_background.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/icona_app_splashscreen_foreground.xml" value="0.3609375" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/icona_splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/image_splash_screen.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/image_splash_screen_foreground.xml" value="0.3609375" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/logo_hig.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/logo_ig.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/logo_splash_screen.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/splash_image.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/drawable/text_welcome.xml" value="0.3609375" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/layout/activity_layout.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/icona_app.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/icona_app_round.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/icona_app_splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/icona_cyber.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/icona_cyber_round.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/icona_skater_round.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/image_splash_screen.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/mipmap-anydpi-v26/text_welcome.xml" value="0.1" />
+        <entry key="..\:/Users/nicob/AndroidStudioProjects/hiGamerApp/app/src/main/res/xml/activity_layout.xml" value="0.34479166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
